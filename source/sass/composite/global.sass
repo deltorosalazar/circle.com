@@ -1,0 +1,59 @@
+@import '../common/config'
+
+body
+  background: $color-bg
+  color: $color-text
+  font-family: $font-family
+  margin: 0
+  -webkit-font-smoothing: antialiased
+
+  a
+    color: $color-1
+
+.wrapper
+  background-color: $color-white
+  box-shadow: $shadow
+  box-sizing: border-box  
+  max-width: $contained-width
+  padding: $padding
+
+
+.section
+  &__title
+    margin-bottom: 3rem
+
+  &__subtitle
+    margin-bottom: 2.0625rem
+
+  padding: 0 $padding
+  padding-top: 3.125rem
+  padding-bottom: 3.75rem
+
+  &--grey-1
+    background-color: #545454
+
+  &--grey-2
+    background-color: #393939
+
+  &--grey-3
+    background-color: #404040
+
+@import '../base/reset'
+@import '../base/typography'
+@import '../components/button'
+@import '../components/container'
+@import '../components/icon-wrapper'
+@import '../components/input'
+@import '../components/nav'
+
+@import '../composite/home'
+@import '../composite/project'
+@import '../composite/projects'
+
+@import '../common/modifiers'
+@import '../../../partials/footer/footer'
+@import '../../../partials/header/header'
+@import '../../../partials/latest-blog/latest-blog'
+@import '../../../partials/project-milestone/project-milestone'
+@import '../../../partials/project-thumbnail/project-thumbnail'
+@import '../../../partials/service/service'

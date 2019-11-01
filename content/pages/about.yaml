@@ -1,0 +1,6 @@
+$title@: About Us
+$title@es: Acerca de
+$path: /{root}/about
+description: To be successful you’ve got to work hard, to make history, simple, you’ve got to make it.
+
+$view: /views/about.html

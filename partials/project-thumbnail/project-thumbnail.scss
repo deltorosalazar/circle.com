@@ -1,0 +1,31 @@
+.project-thumbnail {
+  background-color: #545454;
+  position: relative;
+  height: 558px;
+  padding: 13.25rem 25px 25px 25px;
+
+  &__title {
+    margin-bottom: 0.875rem;
+  }
+
+  &__arrow-wrapper {
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    height: 44px;
+    justify-content: center;
+    margin-bottom: 1.9375rem;
+    width: 44px;
+
+    a {
+      align-items: center;
+      display: inherit;
+      justify-content: center;
+    }
+  }
+
+  &__arrow {
+    width: 40%;
+  }
+}

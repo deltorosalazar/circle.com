@@ -1,0 +1,39 @@
+body {
+  font-family: $font-family;
+}
+
+.light { font-weight: 300; }
+.regular { font-weight: 400; }
+.semiregular { font-weight: 500;}
+.semibold { font-weight: 600; }
+.bold { font-weight: 700; }
+
+.uppercase { text-transform: uppercase; }
+
+.centered { text-align: center; }
+
+h1 {
+  &.large { font-size: 3.4375rem; }
+  &.medium { font-size: 1.5rem; }
+  &.small { font-size: .9375rem; }
+}
+
+h2 {
+  &.large { font-size: 1.875rem; }
+  &.medium { font-size: 1.5rem; }
+  &.small { font-size: 1.375rem; }
+}
+
+h3 {
+  &.large { font-size: 1.875rem; }
+  &.medium { font-size: 1.75rem; }
+  &.small { font-size: 1.5rem; }
+}
+
+p, a {
+  &.xsmall { font-size: .625rem; }
+  &.small { font-size: .75rem; }
+  &.medium { font-size: .9375rem; }
+  &.large { font-size: 1.0625rem; }
+  &.xlarge { font-size: 2rem; }
+}

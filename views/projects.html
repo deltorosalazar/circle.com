@@ -1,0 +1,20 @@
+{% extends "views/base.html" %}
+
+{% block content %}
+<div class="projects">
+  <header class="section">
+    <h1 class="large bold projects__title">{{_(doc.title)}}</h1>
+    <h2 class="medium light projects__subtitle">{{_(doc.subtitle)}}</h2>
+  </header>
+
+  <section class="projects__list section">
+    {% for project in g.docs('projects') %}
+      {% with %}
+        {% set partial = project %}
+        {% set url = project.url %}      
+        {% include "/partials/project-thumbnail/project-thumbnail.html" with context %}
+      {% endwith %}
+    {% endfor %}
+  </section>
+</div>
+{% endblock %}

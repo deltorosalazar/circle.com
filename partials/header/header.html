@@ -1,0 +1,27 @@
+<header class="header">
+  <div class="header__menu-icon-wrapper">
+    <label class="header__menu-icon-wrapper__menu-button" for="menu-button">
+      <img class="header__menu-icon-wrapper__icon" src="{{podspec.meta.icon_path}}" alt="menu-icon">
+      <div class="icon-wrapper">
+        <img class="header__menu-icon-wrapper__chevron" src="/static/images/icons/chevron-down.svg" alt="">
+      </div>
+    </label>
+
+    <h1 class="header__menu-icon-wrapper__text medium bold uppercase">Circle</h1>
+  </div>
+  
+  <input type="checkbox" name="menu-button" id="menu-button" class="header__menu-button">
+
+  <div class="header__nav-wrapper no-padding no-padding--top no-padding--bottom no-padding--left"></div>
+  <nav class="header__nav">
+      <ul class="header__nav__list">
+        {% for page in g.docs('pages') %}          
+          <li class="header__nav__item">
+            <a href="{{page.url}}">
+              <p class="xlarge">{{page.title}}</p>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+</header>

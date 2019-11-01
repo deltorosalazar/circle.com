@@ -1,0 +1,44 @@
+@import '../common/config.sass';
+
+.button {
+  align-items: center;
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 29px;
+  color: white;
+  display: flex;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  height: 2.75rem;
+  justify-content: center;
+  text-transform: uppercase;
+  width: 17.1875rem;
+
+  &::after {
+    background-image: url('/static/images/icons/arrow-right.png');
+    background-size: 18px;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    height: 18px;
+    width: 18px;
+    margin-left: .5rem;
+  }
+
+  &.no-arrow {
+    &::after {
+      display: none;
+    }
+  } 
+
+  &.filled {
+    background-color: #808080;
+    border: none;
+    color: #212121;
+    font-weight: 700;
+  }
+
+  &.big-font {
+    font-size: 0.9375rem;
+  }
+}

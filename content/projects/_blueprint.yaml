@@ -1,0 +1,6 @@
+path: /projects/{slug}
+view: /views/project.html
+localization:
+  path: /{locale}/projects/{slug}/
+  locales:
+  - es

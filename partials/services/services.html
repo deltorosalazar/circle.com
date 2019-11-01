@@ -1,0 +1,8 @@
+<div class="services">
+  {% for service in g.docs('services') %}
+    {% with %}
+      {% set partial = service %}
+      {% include "/partials/service/service.html" with context %}
+    {% endwith %}
+  {% endfor %}
+</div>

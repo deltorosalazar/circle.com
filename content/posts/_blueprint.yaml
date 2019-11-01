@@ -1,0 +1,2 @@
+path: /blog/{slug}
+view: /views/post.html

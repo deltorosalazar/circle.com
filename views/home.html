@@ -1,0 +1,74 @@
+{% extends "views/base.html" %}
+
+{% block content %}
+  <div class="home">
+    <header class="section">
+      <h1 class="large bold centered home__title">Welcome to the world of Circle</h1>
+      <h2 class="medium light home__subtitle">World-class outcomes for brands and people through creating CG for games, film, media & entertainment.</h2>
+    </header>
+
+    <section class="home__services section">
+      {% include "/partials/services/services.html" with context %}
+      <button class="button big-font">Learn more about us</button>
+    </section>
+
+    <section class="home__projects section">
+      {% for project in g.docs('projects') %}
+        {% with %}
+          {% set partial = project %}
+          {% set url = project.url %}      
+          {% include "/partials/project-thumbnail/project-thumbnail.html" with context %}
+        {% endwith %}
+      {% endfor %}
+    </section>
+
+    <section class="home__wanna-see-more section">
+      <h1 class="large bold centered section__title">Wanna see more?</h1>
+      <h2 class="medium light section__subtitle">We are working on varions projects so you can see lot more in the project section.</h2>
+
+      <button class="button">Browse all Projects</button>
+    </section>
+
+    <section class="home__meet-our-talents section section--grey-1">
+      <h1 class="large bold centered section__title">Meet our talents</h1>
+      <h2 class="medium light section__subtitle">Circle is a creative studio founded in Prague. We specialize in creating CG for for games, film, media & entertainment.</h2>
+
+      <button class="button">Browse our Talents</button>
+    </section>
+
+    <section class="home__partners section section--grey-2">
+      <h2 class="medium light centered section__subtitle">We've been fortunate to work with some amazing partners.</h2>
+      <ul class="home__partners__list">
+        {% for partner in g.docs('partners') %}
+          {% with %}                        
+            <li class="home__partners__partner">
+              <img src="{{_(partner.image)}}" alt="">
+            </li>
+          {% endwith %}
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section class="home__latest-from-our-blog section section--grey-3">
+      <h1 class="large bold centered section__title">Latest from our Blog</h1>
+      <h2 class="medium light section__subtitle">We create new awesome interactive digital products. Researching market, a-b testing, branding, mobile & web development, wireframes and interactive prototypes for early stages services. We focused on user experience and mobile applications.</h2>
+      <button class="button home__latest-from-our-blog__button">Read our Blog</button>
+
+      <div class="home__latest-from-our-blog__latest">
+        {% for post in g.docs('posts') %}
+          {% with %}
+            {% set partial = post %}            
+            {% set url = post.url %}      
+            {% include "/partials/latest-blog/latest-blog.html" with context %}
+          {% endwith %}
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="home__want-to-work-with-us section">
+      <h1 class="large bold centered section__title">Want to work with us?</h1>
+      <h2 class="medium light centered section__subtitle">We are excited to work with services and complicated applications, so if your project one of those you will get a small discount</h2>
+      {% include "/partials/contact-form/contact-form.html" %}
+    </section>
+  </div>
+{% endblock %}

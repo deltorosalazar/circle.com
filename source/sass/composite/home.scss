@@ -1,0 +1,60 @@
+@import '../common/config';
+
+.home {
+  &__title {
+    margin-bottom: 2.4375rem;
+  }
+  &__subtitle {
+    margin-bottom: 3.125rem;
+  }
+
+  &__services {
+    .service {
+      margin-bottom: 3.125rem;
+      width: 78%;
+    }
+  }
+
+  &__projects {
+    &.section {
+      padding-bottom: 0;
+
+      .project-thumbnail {
+        &:not(:last-child) {
+          margin-bottom: 1.25rem;
+        } 
+      }
+    }
+  }
+
+  &__partners {
+    h2 {
+      margin-bottom: 2.0625rem;
+    }
+
+    &__list {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      list-style: none;
+    }
+
+    &__partner {
+      margin-bottom: 4.5rem;
+    }
+  }
+
+  &__latest-from-our-blog {
+    &__button {
+      margin-bottom: 3.75rem;
+    }
+
+    &__latest {
+      .latest-blog {
+        &:not(:last-child) {
+          margin-bottom: 6.75rem;
+        }
+      }
+    }
+  }
+}

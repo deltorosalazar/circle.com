@@ -1,0 +1,30 @@
+$order: 3
+
+$title@: Project Three
+$title@es: Proyecto Tres
+description@: Circle is a creative studio founded in Prague. We specialize in creating CG for for games, film, media & entertainment.
+description@es: Circle es un estudio creativo fundado en Praga. Nos especializamos en crear CG para juegos, películas, medios y entretenimiento.
+
+video: https://www.youtube.com/watch?v=w2edclA8d24
+
+partials:
+- partial: project-milestone
+  title@: I'm working with my partners in our studio based in Toronto
+  title@es: Estoy trabajando con mis socios en nuestro estudio con sede en Toronto
+  description@:
+    - We create new awesome interactive digital products. Researching market, a-b testing, branding, mobile & web development, wireframes and interactive prototypes for early stages services. We focused on user experience and mobile applications.
+    - We create new awesome interactive digital products. Researching market, a-b testing, branding, mobile & web development, wireframes and interactive prototypes for early stages services. We focused on user experience and mobile applications.
+  description@es:
+    - Creamos nuevos productos digitales interactivos increíbles. Investigación de mercado, pruebas a-b, desarrollo de marca, desarrollo móvil y web, wireframes y prototipos interactivos para servicios en etapas tempranas. Nos centramos en la experiencia del usuario y las aplicaciones móviles.
+    - Creamos nuevos productos digitales interactivos increíbles. Investigación de mercado, pruebas a-b, desarrollo de marca, desarrollo móvil y web, wireframes y prototipos interactivos para servicios en etapas tempranas. Nos centramos en la experiencia del usuario y las aplicaciones móviles.
+  video: /static/images/icons/polygon.svg
+
+- partial: project-milestone
+  title@: We just like create music for our listeners
+  title@es: Simplemente nos gusta crear música para nuestros oyentes
+  description@:
+    - We create new awesome interactive digital products. Researching market, a-b testing, branding, mobile & web development, wireframes and interactive prototypes for early stages services. We focused on user experience and mobile applications.
+    - We create new awesome interactive digital products. Researching market, a-b testing, branding, mobile & web development, wireframes and interactive prototypes for early stages services. We focused on user experience and mobile applications.
+  description@es:
+    - Creamos nuevos productos digitales interactivos increíbles. Investigación de mercado, pruebas a-b, desarrollo de marca, desarrollo móvil y web, wireframes y prototipos interactivos para servicios en etapas tempranas. Nos centramos en la experiencia del usuario y las aplicaciones móviles.
+    - Creamos nuevos productos digitales interactivos increíbles. Investigación de mercado, pruebas a-b, desarrollo de marca, desarrollo móvil y web, wireframes y prototipos interactivos para servicios en etapas tempranas. Nos centramos en la experiencia del usuario y las aplicaciones móviles.

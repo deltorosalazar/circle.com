@@ -1,0 +1,16 @@
+.projects {
+  &__title {
+    margin-bottom: 2.4375rem;
+    text-align: center;
+  }
+
+  &__subtitle {
+    margin-bottom: 5.625rem;
+  }
+
+  .project-thumbnail {
+    &:not(:last-child) {
+      margin-bottom: 1.25rem;
+    }
+  }
+}

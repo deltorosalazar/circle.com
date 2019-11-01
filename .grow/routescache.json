@@ -1,0 +1,1318 @@
+{
+  "concrete": {
+    "dev": {
+      "/": {
+        "options": {},
+        "value": {
+          "hashed": "910121377ea4a6979f9a2512a0f9a59762fead74dbce501a09024e56ab6775e0",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/home.yaml"
+          },
+          "pod_path": "/content/pages/home.yaml"
+        }
+      },
+      "/about": {
+        "options": {},
+        "value": {
+          "hashed": "70cc83f5a30b0415ddd4b5d649d803c91a434c5222e903a753bff90fe1371326",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/about.yaml"
+          },
+          "pod_path": "/content/pages/about.yaml"
+        }
+      },
+      "/about/": {
+        "options": {},
+        "value": {
+          "hashed": "166e4dcf8b2ae95a074bbbfdf75e441abfdb312aa8aa76ae44aec8c5dd8b5a7e",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/about.yaml"
+          },
+          "pod_path": "/content/pages/about.yaml"
+        }
+      },
+      "/blog/apples-gender-neutral-emojis-arent-for-everyone/": {
+        "options": {},
+        "value": {
+          "hashed": "628bb1a40c86bbc63d7d2880c55be4f1820d503bfa80b6c138fdcae778d073a8",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "en",
+            "pod_path": "/content/posts/post-one.yaml"
+          },
+          "pod_path": "/content/posts/post-one.yaml"
+        }
+      },
+      "/blog/los-emojis-de-genero-neutro-de-apple-no-son-para-todos/": {
+        "options": {},
+        "value": {
+          "hashed": "628bb1a40c86bbc63d7d2880c55be4f1820d503bfa80b6c138fdcae778d073a8",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "es",
+            "pod_path": "/content/posts/post-one.yaml"
+          },
+          "pod_path": "/content/posts/post-one.yaml"
+        }
+      },
+      "/blog/quien-va-a-usar-el-adn-para-almacenar-sus-datos/": {
+        "options": {},
+        "value": {
+          "hashed": "c1785d74a2c3e0ffd4a227f4ab39402f5b438753dbfe236d1752b50d9fe9fde3",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "es",
+            "pod_path": "/content/posts/post-two.yaml"
+          },
+          "pod_path": "/content/posts/post-two.yaml"
+        }
+      },
+      "/blog/whos-going-to-use-dna-to-store-their-data/": {
+        "options": {},
+        "value": {
+          "hashed": "c1785d74a2c3e0ffd4a227f4ab39402f5b438753dbfe236d1752b50d9fe9fde3",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "en",
+            "pod_path": "/content/posts/post-two.yaml"
+          },
+          "pod_path": "/content/posts/post-two.yaml"
+        }
+      },
+      "/contact/": {
+        "options": {},
+        "value": {
+          "hashed": "b9988a262863610d33747e5c5a0644dcc9d47af3ca2411019f881b0a1d4de63c",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/contact.yaml"
+          },
+          "pod_path": "/content/pages/contact.yaml"
+        }
+      },
+      "/es/about": {
+        "options": {},
+        "value": {
+          "hashed": "70cc83f5a30b0415ddd4b5d649d803c91a434c5222e903a753bff90fe1371326",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "es",
+            "pod_path": "/content/pages/about.yaml"
+          },
+          "pod_path": "/content/pages/about.yaml"
+        }
+      },
+      "/es/about/": {
+        "options": {},
+        "value": {
+          "hashed": "166e4dcf8b2ae95a074bbbfdf75e441abfdb312aa8aa76ae44aec8c5dd8b5a7e",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "es",
+            "pod_path": "/content/pages/about.yaml"
+          },
+          "pod_path": "/content/pages/about.yaml"
+        }
+      },
+      "/es/contact/": {
+        "options": {},
+        "value": {
+          "hashed": "b9988a262863610d33747e5c5a0644dcc9d47af3ca2411019f881b0a1d4de63c",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "es",
+            "pod_path": "/content/pages/contact.yaml"
+          },
+          "pod_path": "/content/pages/contact.yaml"
+        }
+      },
+      "/es/home/": {
+        "options": {},
+        "value": {
+          "hashed": "910121377ea4a6979f9a2512a0f9a59762fead74dbce501a09024e56ab6775e0",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "es",
+            "pod_path": "/content/pages/home.yaml"
+          },
+          "pod_path": "/content/pages/home.yaml"
+        }
+      },
+      "/es/projects/": {
+        "options": {},
+        "value": {
+          "hashed": "a939010df279c6aeefa588745d884384ffd71ee5fb24bb37ef91cb4f066b448a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "es",
+            "pod_path": "/content/pages/projects.yaml"
+          },
+          "pod_path": "/content/pages/projects.yaml"
+        }
+      },
+      "/es/projects/projecto-uno/": {
+        "options": {},
+        "value": {
+          "hashed": "e440429f878af5ab8862d014c1f1168811b768c42e3d100d19ca60950174acfa",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "es",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/es/projects/proyecto-dos/": {
+        "options": {},
+        "value": {
+          "hashed": "64bafba411ae434d6bb78fb23b09ade392f8a26433fb9c73960b4962041be77a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "es",
+            "pod_path": "/content/projects/project-two.yaml"
+          },
+          "pod_path": "/content/projects/project-two.yaml"
+        }
+      },
+      "/es/projects/proyecto-tres/": {
+        "options": {},
+        "value": {
+          "hashed": "7d5631eb57341a4478fa24755afff08f5d4b4d460f89f5233e05cfe149d191c7",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "es",
+            "pod_path": "/content/projects/project-three.yaml"
+          },
+          "pod_path": "/content/projects/project-three.yaml"
+        }
+      },
+      "/es/projects/proyecto-uno/": {
+        "options": {},
+        "value": {
+          "hashed": "a080d1a3d6305d229b9a37a9d326ae3955de1afcb7ca60b0d2c24ba83f407690",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "es",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/project-one/project/project-one/": {
+        "options": {},
+        "value": {
+          "hashed": "101f29197c6ead631a00e7b7e88ff3c3bbc268ee42ed5098e75568a950241472",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/project/None": {
+        "options": {},
+        "value": {
+          "hashed": "101f29197c6ead631a00e7b7e88ff3c3bbc268ee42ed5098e75568a950241472",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.ayml"
+          },
+          "pod_path": "/content/projects/project-one.ayml"
+        }
+      },
+      "/project/project-one": {
+        "options": {},
+        "value": {
+          "hashed": "101f29197c6ead631a00e7b7e88ff3c3bbc268ee42ed5098e75568a950241472",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/project/project-one/": {
+        "options": {},
+        "value": {
+          "hashed": "101f29197c6ead631a00e7b7e88ff3c3bbc268ee42ed5098e75568a950241472",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/projects/": {
+        "options": {},
+        "value": {
+          "hashed": "a939010df279c6aeefa588745d884384ffd71ee5fb24bb37ef91cb4f066b448a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/projects.yaml"
+          },
+          "pod_path": "/content/pages/projects.yaml"
+        }
+      },
+      "/projects/project-one/": {
+        "options": {},
+        "value": {
+          "hashed": "a080d1a3d6305d229b9a37a9d326ae3955de1afcb7ca60b0d2c24ba83f407690",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/projects/project-three/": {
+        "options": {},
+        "value": {
+          "hashed": "7d5631eb57341a4478fa24755afff08f5d4b4d460f89f5233e05cfe149d191c7",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-three.yaml"
+          },
+          "pod_path": "/content/projects/project-three.yaml"
+        }
+      },
+      "/projects/project-two/": {
+        "options": {},
+        "value": {
+          "hashed": "64bafba411ae434d6bb78fb23b09ade392f8a26433fb9c73960b4962041be77a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-two.yaml"
+          },
+          "pod_path": "/content/projects/project-two.yaml"
+        }
+      },
+      "/sitemap.xml": {
+        "options": null,
+        "value": {
+          "hashed": null,
+          "kind": "sitemap",
+          "meta": {
+            "collections": null,
+            "filters": null,
+            "locales": null,
+            "path": "/sitemap.xml",
+            "template": null
+          },
+          "pod_path": null
+        }
+      },
+      "/static/images/circle-icon.svg": {
+        "options": null,
+        "value": {
+          "hashed": "a2ebf4dadecfdfda479232839b829bfe5c174141c6b4c200eeff97a6bde991f7",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/circle-icon.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/circle-icon.svg"
+        }
+      },
+      "/static/images/favicon.png": {
+        "options": null,
+        "value": {
+          "hashed": "8b1cd42e02bce563d848241c16f84bf85b6434c154bebd098ec5309881706a98",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/favicon.png",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/favicon.png"
+        }
+      },
+      "/static/images/icons/arrow-right.png": {
+        "options": null,
+        "value": {
+          "hashed": "7a6cd8466fd8085c55f05ce327f2b926db35d48b8a57e364f38a3cd0d7b07dbd",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/arrow-right.png",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/arrow-right.png"
+        }
+      },
+      "/static/images/icons/arrow-right.svg": {
+        "options": null,
+        "value": {
+          "hashed": "d9698cc24fbb4ea2029860f613849e87d553231bafeaaeb818f223f1b3d826ab",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/arrow-right.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/arrow-right.svg"
+        }
+      },
+      "/static/images/icons/chevron-down.svg": {
+        "options": null,
+        "value": {
+          "hashed": "4c97425315829da37b6a4468cebb77fa4f1ec086f8ad2e2d0aec6cbba274abb9",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/chevron-down.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/chevron-down.svg"
+        }
+      },
+      "/static/images/icons/circle.svg": {
+        "options": null,
+        "value": {
+          "hashed": "793ebc2cfd8d701604d015f26edee7ea98d160e42977128ac28def648c88e6fe",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/circle.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/circle.svg"
+        }
+      },
+      "/static/images/icons/dribble.svg": {
+        "options": null,
+        "value": {
+          "hashed": "bf2391ee558fc7ec9694398cfb2cfce5ce4187b2f85a7c686f90e7d721e51e84",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/dribble.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/dribble.svg"
+        }
+      },
+      "/static/images/icons/facebook.svg": {
+        "options": null,
+        "value": {
+          "hashed": "a19d42e1b5acd678e3adcefe981e9d9dd5bef05de55d8713a7f5d0a436b1938b",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/facebook.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/facebook.svg"
+        }
+      },
+      "/static/images/icons/instagram.svg": {
+        "options": null,
+        "value": {
+          "hashed": "1ae9e76b74456385bb88e379c1df4de5a0b904b16eb08d4e84df15dfd911ce0d",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/instagram.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/instagram.svg"
+        }
+      },
+      "/static/images/icons/polygon.svg": {
+        "options": null,
+        "value": {
+          "hashed": "c57d6884a59b766817ca73eff12064b5351766af8be8adfc5e7fc8280e1cd327",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/polygon.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/polygon.svg"
+        }
+      },
+      "/static/images/icons/triangle.svg": {
+        "options": null,
+        "value": {
+          "hashed": "028760ebe1ae260d35586773970a9e92667eba7c5bd48a8d34632e10799d39d5",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/icons/triangle.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/icons/triangle.svg"
+        }
+      },
+      "/static/images/partners/apple-pay.svg": {
+        "options": null,
+        "value": {
+          "hashed": "436ec33d26d9df7eecb8f32265a20b59d8945344dc9bce9e8d9d5f28ccb89ce1",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/partners/apple-pay.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/partners/apple-pay.svg"
+        }
+      },
+      "/static/images/partners/google.svg": {
+        "options": null,
+        "value": {
+          "hashed": "997314ee4ca7d4c5cf0d4bdb1d447e2340987d04fa8af90e03d4a06dbad6e599",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/partners/google.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/partners/google.svg"
+        }
+      },
+      "/static/images/partners/nike.png": {
+        "options": null,
+        "value": {
+          "hashed": "0111376a78a5c51bae37786fc8a146d50672c61f6b8d0e8742bd7bd346812b65",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/partners/nike.png",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/partners/nike.png"
+        }
+      },
+      "/static/images/partners/nissan.svg": {
+        "options": null,
+        "value": {
+          "hashed": "5bfa14ea7b6ba753194b29628722c58aabb4c8e0ba06613c7219ea2ff38b1a86",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/partners/nissan.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/partners/nissan.svg"
+        }
+      },
+      "/static/images/partners/play-station.svg": {
+        "options": null,
+        "value": {
+          "hashed": "b0f6e1c672882ce5a386d6112516f2c6cddf5369a96c40557135f29603546e15",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/partners/play-station.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/partners/play-station.svg"
+        }
+      },
+      "/static/images/posts/1_IQ_j2q6sCpMwHTz_eGJAcQ.jpeg": {
+        "options": null,
+        "value": {
+          "hashed": "9601f9b576ae8cd8c3c8cec53b0baddcacf1aba65e67cba0b038a77b2872186b",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/posts/1_IQ_j2q6sCpMwHTz_eGJAcQ.jpeg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/posts/1_IQ_j2q6sCpMwHTz_eGJAcQ.jpeg"
+        }
+      },
+      "/static/images/posts/1_e-BX3itTKPU0f_yNsWfOTQ.jpeg": {
+        "options": null,
+        "value": {
+          "hashed": "f5ce35bb3af42e296e0dfa53bd6debbe1953f1a1efe7ca54145f2a3ee75258bf",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/posts/1_e-BX3itTKPU0f_yNsWfOTQ.jpeg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/posts/1_e-BX3itTKPU0f_yNsWfOTQ.jpeg"
+        }
+      },
+      "/static/images/sponsors/apple-pay.svg": {
+        "options": null,
+        "value": {
+          "hashed": "436ec33d26d9df7eecb8f32265a20b59d8945344dc9bce9e8d9d5f28ccb89ce1",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/sponsors/apple-pay.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/sponsors/apple-pay.svg"
+        }
+      },
+      "/static/images/sponsors/google.svg": {
+        "options": null,
+        "value": {
+          "hashed": "997314ee4ca7d4c5cf0d4bdb1d447e2340987d04fa8af90e03d4a06dbad6e599",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/sponsors/google.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/sponsors/google.svg"
+        }
+      },
+      "/static/images/sponsors/nike.png": {
+        "options": null,
+        "value": {
+          "hashed": "0111376a78a5c51bae37786fc8a146d50672c61f6b8d0e8742bd7bd346812b65",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/sponsors/nike.png",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/sponsors/nike.png"
+        }
+      },
+      "/static/images/sponsors/nissan.svg": {
+        "options": null,
+        "value": {
+          "hashed": "5bfa14ea7b6ba753194b29628722c58aabb4c8e0ba06613c7219ea2ff38b1a86",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/sponsors/nissan.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/sponsors/nissan.svg"
+        }
+      },
+      "/static/images/sponsors/play-station.svg": {
+        "options": null,
+        "value": {
+          "hashed": "b0f6e1c672882ce5a386d6112516f2c6cddf5369a96c40557135f29603546e15",
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "locale": null,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "pod_path": "/static/images/sponsors/play-station.svg",
+            "static_filter": {
+              "ignored": [],
+              "included": []
+            }
+          },
+          "pod_path": "/static/images/sponsors/play-station.svg"
+        }
+      }
+    }
+  },
+  "dynamic": {
+    "dev": {
+      "": {
+        "options": {},
+        "value": {
+          "hashed": "c1785d74a2c3e0ffd4a227f4ab39402f5b438753dbfe236d1752b50d9fe9fde3",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "es",
+            "pod_path": "/content/posts/post-two.yaml"
+          },
+          "pod_path": "/content/posts/post-two.yaml"
+        }
+      },
+      "/": {
+        "options": {},
+        "value": {
+          "hashed": "910121377ea4a6979f9a2512a0f9a59762fead74dbce501a09024e56ab6775e0",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/home.yaml"
+          },
+          "pod_path": "/content/pages/home.yaml"
+        }
+      },
+      "/:locale/about/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "166e4dcf8b2ae95a074bbbfdf75e441abfdb312aa8aa76ae44aec8c5dd8b5a7e",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "pod_path": "/content/pages/about.yaml"
+          },
+          "pod_path": "/content/pages/about.yaml"
+        }
+      },
+      "/:locale/contact/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "b9988a262863610d33747e5c5a0644dcc9d47af3ca2411019f881b0a1d4de63c",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "pod_path": "/content/pages/contact.yaml"
+          },
+          "pod_path": "/content/pages/contact.yaml"
+        }
+      },
+      "/:locale/home/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "910121377ea4a6979f9a2512a0f9a59762fead74dbce501a09024e56ab6775e0",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "pod_path": "/content/pages/home.yaml"
+          },
+          "pod_path": "/content/pages/home.yaml"
+        }
+      },
+      "/:locale/projects/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "a939010df279c6aeefa588745d884384ffd71ee5fb24bb37ef91cb4f066b448a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "pod_path": "/content/pages/projects.yaml"
+          },
+          "pod_path": "/content/pages/projects.yaml"
+        }
+      },
+      "/:locale/projects/project-one/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "a080d1a3d6305d229b9a37a9d326ae3955de1afcb7ca60b0d2c24ba83f407690",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/:locale/projects/project-three/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "7d5631eb57341a4478fa24755afff08f5d4b4d460f89f5233e05cfe149d191c7",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "pod_path": "/content/projects/project-three.yaml"
+          },
+          "pod_path": "/content/projects/project-three.yaml"
+        }
+      },
+      "/:locale/projects/project-two/": {
+        "options": {
+          "locale": [
+            "es"
+          ]
+        },
+        "value": {
+          "hashed": "64bafba411ae434d6bb78fb23b09ade392f8a26433fb9c73960b4962041be77a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "pod_path": "/content/projects/project-two.yaml"
+          },
+          "pod_path": "/content/projects/project-two.yaml"
+        }
+      },
+      "/about/": {
+        "options": {},
+        "value": {
+          "hashed": "166e4dcf8b2ae95a074bbbfdf75e441abfdb312aa8aa76ae44aec8c5dd8b5a7e",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/about.yaml"
+          },
+          "pod_path": "/content/pages/about.yaml"
+        }
+      },
+      "/aboutff/": {
+        "options": {},
+        "value": {
+          "hashed": "89165157cf3f71f31c4428eddb80a4e62909a3ecec473297b3bd82b884e6a8a0",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/about.md"
+          },
+          "pod_path": "/content/pages/about.md"
+        }
+      },
+      "/blog/None/": {
+        "options": {},
+        "value": {
+          "hashed": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "en",
+            "pod_path": "/content/posts/post-one.yaml"
+          },
+          "pod_path": "/content/posts/post-one.yaml"
+        }
+      },
+      "/blog/apples-gender-neutral-emojis-arent-for-everyone/": {
+        "options": {},
+        "value": {
+          "hashed": "628bb1a40c86bbc63d7d2880c55be4f1820d503bfa80b6c138fdcae778d073a8",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "en",
+            "pod_path": "/content/posts/post-one.yaml"
+          },
+          "pod_path": "/content/posts/post-one.yaml"
+        }
+      },
+      "/blog/whos-going-to-use-dna-to-store-their-data/": {
+        "options": {},
+        "value": {
+          "hashed": "c1785d74a2c3e0ffd4a227f4ab39402f5b438753dbfe236d1752b50d9fe9fde3",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/posts",
+            "locale": "en",
+            "pod_path": "/content/posts/post-two.yaml"
+          },
+          "pod_path": "/content/posts/post-two.yaml"
+        }
+      },
+      "/contact/": {
+        "options": {},
+        "value": {
+          "hashed": "b9988a262863610d33747e5c5a0644dcc9d47af3ca2411019f881b0a1d4de63c",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/contact.yaml"
+          },
+          "pod_path": "/content/pages/contact.yaml"
+        }
+      },
+      "/css/*": {
+        "options": null,
+        "value": {
+          "hashed": null,
+          "kind": "static",
+          "meta": {
+            "fingerprinted": true,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "path_format": "/css/",
+            "source_formats": [
+              "/dist/css/"
+            ],
+            "static_filter": {}
+          },
+          "pod_path": null
+        }
+      },
+      "/js/*": {
+        "options": null,
+        "value": {
+          "hashed": null,
+          "kind": "static",
+          "meta": {
+            "fingerprinted": true,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "path_format": "/js/",
+            "source_formats": [
+              "/dist/js/"
+            ],
+            "static_filter": {}
+          },
+          "pod_path": null
+        }
+      },
+      "/project-one/project/project-one/": {
+        "options": {},
+        "value": {
+          "hashed": "101f29197c6ead631a00e7b7e88ff3c3bbc268ee42ed5098e75568a950241472",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/project/project-one": {
+        "options": {},
+        "value": {
+          "hashed": "101f29197c6ead631a00e7b7e88ff3c3bbc268ee42ed5098e75568a950241472",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/project/project-one/": {
+        "options": {},
+        "value": {
+          "hashed": "9cccae3a25bc9f227c70c7c0590955f5fed38bc6a4486739e6e7953825ea9db0",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/projects/": {
+        "options": {},
+        "value": {
+          "hashed": "a939010df279c6aeefa588745d884384ffd71ee5fb24bb37ef91cb4f066b448a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/projects.yaml"
+          },
+          "pod_path": "/content/pages/projects.yaml"
+        }
+      },
+      "/projects/project-one/": {
+        "options": {},
+        "value": {
+          "hashed": "a080d1a3d6305d229b9a37a9d326ae3955de1afcb7ca60b0d2c24ba83f407690",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-one.yaml"
+          },
+          "pod_path": "/content/projects/project-one.yaml"
+        }
+      },
+      "/projects/project-three/": {
+        "options": {},
+        "value": {
+          "hashed": "7d5631eb57341a4478fa24755afff08f5d4b4d460f89f5233e05cfe149d191c7",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-three.yaml"
+          },
+          "pod_path": "/content/projects/project-three.yaml"
+        }
+      },
+      "/projects/project-two/": {
+        "options": {},
+        "value": {
+          "hashed": "64bafba411ae434d6bb78fb23b09ade392f8a26433fb9c73960b4962041be77a",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/projects",
+            "locale": "en",
+            "pod_path": "/content/projects/project-two.yaml"
+          },
+          "pod_path": "/content/projects/project-two.yaml"
+        }
+      },
+      "/projectsff/": {
+        "options": {},
+        "value": {
+          "hashed": "791820a372311621519a4f0ce52774d1577b481cf8a2323dbc60b80cadcb1ac3",
+          "kind": "doc",
+          "meta": {
+            "collection_path": "/content/pages",
+            "locale": "en",
+            "pod_path": "/content/pages/projects.md"
+          },
+          "pod_path": "/content/pages/projects.md"
+        }
+      },
+      "/static/*": {
+        "options": null,
+        "value": {
+          "hashed": null,
+          "kind": "static",
+          "meta": {
+            "fingerprinted": false,
+            "localization": null,
+            "localized": false,
+            "path_filter": {
+              "ignored": [
+                "^.*/\\.[^/]*$"
+              ],
+              "included": []
+            },
+            "path_format": "/static/",
+            "source_formats": [
+              "/static/"
+            ],
+            "static_filter": {}
+          },
+          "pod_path": null
+        }
+      }
+    }
+  },
+  "version": 1
+}

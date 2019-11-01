@@ -1,0 +1,8 @@
+$view: /views/home.html
+
+$title@: Home
+$title@en: Inicio
+$path: /{root}/
+$order: -1
+description@: World-class outcomes for brands and people through creating CG for games, film, media & entertainment.
+description@es: Resultados de clase mundial para marcas y personas mediante la creación de CG para juegos, películas, medios y entretenimiento

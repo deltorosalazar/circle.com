@@ -1,0 +1,41 @@
+{% extends "views/base.html" %}
+
+{% block content %}
+  <div class="project">
+    <div class="project__video-wrapper">
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/w2edclA8d24" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <header class="section">
+      <h1 class="project__title large">{{_(doc.title)}}</h1>
+      <h2 class="project__subtitle medium light">{{_(doc.description)}}</h2>
+    </header>
+
+    <section class="project__our-part section">
+      <h2 class="project__our-part__title medium">{{_('Our part is important')}}</h2>
+      <p class="large light">{{_('Circle is a motion design and 3D development agency operating from New York. It’s been 5 years since we’ve started building quality products together with established companies and great startups. Since then, we’ve developed a variety of disciplines and interests, which let us transform ideas into first class experiences.')}}</p>
+      <p class="large light">{{_('We help our clients realize ideas from the first sketch, to launch day and beyond. It’s in this process where we create innovative software for mobile and web. A process where strategy, design and development is key. We also launch our own ideas, sometimes resulting in separate ventures.')}}</p>
+    </section>
+
+    <section class="project__milestones section">
+      {% if doc.partials %}
+        {% for field in doc.partials %}
+          {% if field.partial == 'project-milestone' %}
+            {% set partial_filename = field.partial|expand_partial %}
+
+            {% with partial = field %}
+              {% include partial_filename with context %}
+            {% endwith %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </section>
+
+    <div class="project__pictures">
+      <img src="https://via.placeholder.com/320x240.jpg" alt="">
+      <img src="https://via.placeholder.com/155x115.jpg" alt="">
+      <img src="https://via.placeholder.com/155x115.jpg" alt="">      
+    </div>
+  </div>
+{% endblock %}

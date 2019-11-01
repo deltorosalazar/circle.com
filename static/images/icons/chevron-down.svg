@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ChevronDown</title>    
+    <defs>
+        <path d="M12.4399688,15.571875 C12.3227838,15.6892013 12.163762,15.7551265 11.9979375,15.7551265 C11.832113,15.7551265 11.6730912,15.6892013 11.5559062,15.571875 L6.867,10.8805625 C6.70550386,10.7233638 6.64109851,10.4914203 6.69842176,10.2734605 C6.75574502,10.0555007 6.92592623,9.88525328 7.14386375,9.8278453 C7.36180128,9.77043731 7.59376975,9.83475249 7.75103125,9.9961875 L11.9979063,14.2451875 L16.2447813,9.9961875 C16.4019839,9.83445907 16.6340981,9.76991808 16.8522216,9.82728444 C17.0703451,9.8846508 17.2406743,10.0550342 17.2979713,10.2731759 C17.3552682,10.4913176 17.2906534,10.7234113 17.128875,10.8805625 L12.4399688,15.571875 Z" id="path-1"></path>
+    </defs>
+    <g id="Circle-Mobile-Wireframe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Home" transform="translate(-73.000000, -35.000000)">
+            <g id="Icons/ChevronDown" transform="translate(76.000000, 41.000000) scale(-1, 1) rotate(-270.000000) translate(-76.000000, -41.000000) translate(64.000000, 29.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g fill-rule="nonzero"></g>
+                <g id="Icons/0-Colors/Grey" mask="url(#mask-2)" fill="#B4BFD1" fill-rule="evenodd">
+                    <polygon id="Rectangle-2" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,91 @@
+{
+  "/content/pages/about.yaml": [
+    "/content/pages/about.yaml"
+  ],
+  "/content/pages/contact.yaml": [
+    "/content/pages/contact.yaml"
+  ],
+  "/content/pages/home.yaml": [
+    "/content/pages/about.yaml",
+    "/content/pages/contact.yaml",
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/content/partners/apple-pay.yaml",
+    "/content/partners/google.yaml",
+    "/content/partners/nike.yaml",
+    "/content/partners/nissan.yaml",
+    "/content/partners/play-station.yaml",
+    "/content/posts/post-one.yaml",
+    "/content/posts/post-two.yaml",
+    "/content/projects/project-one.yaml",
+    "/content/projects/project-three.yaml",
+    "/content/projects/project-two.yaml",
+    "/content/services/3d-modeling-and-animations.yaml",
+    "/content/services/motion-and-audio.yaml",
+    "/content/services/product-management.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/partials/contact-form/contact-form.html",
+    "/partials/footer/footer.html",
+    "/partials/header/header.html",
+    "/partials/latest-blog/latest-blog.html",
+    "/partials/project-thumbnail/project-thumbnail.html",
+    "/partials/service/service.html",
+    "/partials/services/services.html",
+    "/static/images/favicon.png",
+    "/static/images/posts/1_IQ_j2q6sCpMwHTz_eGJAcQ.jpeg",
+    "/static/images/posts/1_e-BX3itTKPU0f_yNsWfOTQ.jpeg"
+  ],
+  "/content/pages/projects.yaml": [
+    "/content/pages/projects.yaml"
+  ],
+  "/content/partners/apple-pay.yaml": [
+    "/content/partners/apple-pay.yaml"
+  ],
+  "/content/partners/google.yaml": [
+    "/content/partners/google.yaml"
+  ],
+  "/content/partners/nike.yaml": [
+    "/content/partners/nike.yaml"
+  ],
+  "/content/partners/nissan.yaml": [
+    "/content/partners/nissan.yaml"
+  ],
+  "/content/partners/play-station.yaml": [
+    "/content/partners/play-station.yaml"
+  ],
+  "/content/posts/post-one.yaml": [
+    "/content/posts/post-one.yaml"
+  ],
+  "/content/posts/post-two.yaml": [
+    "/content/posts/post-two.yaml"
+  ],
+  "/content/projects/project-one.yaml": [
+    "/content/pages/about.yaml",
+    "/content/pages/contact.yaml",
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/content/projects/project-one.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/partials/footer/footer.html",
+    "/partials/header/header.html",
+    "/partials/project-milestone/project-milestone.html",
+    "/static/images/favicon.png"
+  ],
+  "/content/projects/project-three.yaml": [
+    "/content/projects/project-three.yaml"
+  ],
+  "/content/projects/project-two.yaml": [
+    "/content/projects/project-two.yaml"
+  ],
+  "/content/services/3d-modeling-and-animations.yaml": [
+    "/content/services/3d-modeling-and-animations.yaml"
+  ],
+  "/content/services/motion-and-audio.yaml": [
+    "/content/services/motion-and-audio.yaml"
+  ],
+  "/content/services/product-management.yaml": [
+    "/content/services/product-management.yaml"
+  ]
+}

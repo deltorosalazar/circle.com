@@ -1,0 +1,26 @@
+<footer class="footer">
+  <h3 class="medium regular semiregular uppercase footer__title">Circle</h3>
+  <p class="small regular footer__copy">Best 3D and motion design studio</p>
+  <nav class="footer__nav">
+    <ul class="footer__nav__list">
+      {% if podspec.meta.social.facebook %}
+      <li class="footer__nav__item">
+        <div class="icon-wrapper">
+          <a href="https://www.facebook.com/{{podspec.meta.social.facebook}}/">
+            <img src="/static/images/icons/facebook.svg" alt="facebook">
+          </a>
+        </div>
+      </li>
+      {% endif %}
+      {% if podspec.meta.social.instagram %}
+      <li class="footer__nav__item">
+        <div class="icon-wrapper">
+          <a href="https://www.facebook.com/{{podspec.meta.social.facebook}}/">
+            <img src="/static/images/icons/instagram.svg" alt="instagram">
+          </a>
+        </div>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
+</footer>

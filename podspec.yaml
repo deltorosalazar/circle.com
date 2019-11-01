@@ -1,0 +1,39 @@
+grow_version: ">=0.2.5"
+
+title: "Circle"
+
+home: /content/pages/home.yaml
+
+localization:
+  root_path: /{locale}/
+  default_locale: en
+  locales:
+    - es
+
+meta:
+  google_analytics_id: ""
+  google_site_verification: ""
+  image_path: ""
+  favicon_path: /static/images/favicon.png
+  icon_path: /static/images/circle-icon.svg
+  social:
+    instagram: example
+    facebook: example
+
+preprocessors:
+- kind: gulp
+  build_task: grow-build
+  command: "./node_modules/gulp/bin/gulp.js"
+
+static_dirs:
+- static_dir: /static/
+  serve_at: /static/
+- static_dir: /dist/css/
+  serve_at: /css/
+  fingerprinted: true
+- static_dir: /dist/js/
+  serve_at: /js/
+  fingerprinted: true
+
+sitemap:
+  enabled: true
